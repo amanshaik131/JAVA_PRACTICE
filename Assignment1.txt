@@ -1,0 +1,17 @@
+1.Assignment: Addition of three Numbers:
+take three numbers as input and compute their sum. Output the result.
+
+Algorithm for Addition of three Numbers :
+----------------------------------------------
+1)START
+2)declare the variables as a,b,c.
+3)Read the values of Variables .
+4)declare the another variable which is "sum" and initialize it with zero.
+5) perform addition  of three variables and store the result in sum such as sum=a+b+c.
+6)print sum.
+7)STOP
+
+
+
+
+

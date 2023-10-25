@@ -1,0 +1,19 @@
+4)Assignment: .Simple Interest:
+take the principal amount, rate of interest, and time in years as input and compute the simple interest. Output the result.
+
+Ans) Algorithm for finding simple intrest:
+---------------------------------------------
+
+Step 1 :  Start
+Step 2 :  declare variables p,t,r,SI
+Step 3 :  Read p,t,r values 
+Step 4 :  Applying the formula  Si=p*t*r/100;
+Step 5 : print Si
+Step 6 : Stop
+
+
+
+
+
+
+ptr/100;

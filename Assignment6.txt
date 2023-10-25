@@ -1,0 +1,11 @@
+6.Assignment:  Even or Odd
+to take a number as input and determine if it is even or odd.
+Output "Even" or "Odd" accordingly.
+
+Algorithm:
+------------
+1)Step 1 : Start
+2)Step 2 : Declare a variable  n
+3)Step 3 : Read n value
+4)Step 4 : check n%2==0 if yes then print n is Even Number otherwise print n is Odd Number.
+5)Step 5 : Stop 

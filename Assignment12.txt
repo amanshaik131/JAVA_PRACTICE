@@ -1,0 +1,11 @@
+12. Assignment: Sum of N Natural Numbers
+take a positive integer N as input and calculate the sum of the first N natural numbers using a loop. 
+Output the result.
+
+Algorithm:
+------------
+Step 1 : Start
+Step 2 : Declare the variable as n and i and sum
+Step 3 :  initialize i value with 1 and sum with 0
+Step 4 : Check if i<=n then sum=sum+i and then increment and otherwise  then print sum
+Step 5 : Stop 

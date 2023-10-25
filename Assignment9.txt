@@ -1,0 +1,22 @@
+10. Assignment: Prime Number
+take a number as input and determine if it is a prime number or not. 
+Output "Prime" or "Not Prime" accordingly.
+Algorithm:
+------------
+Step 1 : Start
+Step 2 : Declare the variables n,i,count
+Step 3 : initialize i value with 1 and count value with 0
+Step 4 : Check i<=n if true then check n%i==0 if yes then increment count and increment the i value otherwise stop
+Step 5 : Check count==2 then print prime number otherwise not prime number
+Step 6: Stop
+ 
+
+
+
+while(i<=n)
+{
+if(n%i==0)
+{
+cout_
+}
+} 

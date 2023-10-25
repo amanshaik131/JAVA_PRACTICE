@@ -1,0 +1,11 @@
+8.Assignment:  Leap Year
+take a year as input and determine if it is a leap year or not. 
+Output "Leap Year" or "Not a Leap Year" accordingly.
+
+Ans)Algorithm : Finding Leap Year or not :
+---------------------------------------------
+Step 1 : Start
+Step 2 : Declare a variable  n
+Step 3 : Read the value of n
+Step 4 : Check if n%4==0 then print Leap Year otherwise print Not Leap Year.
+Step 5 : Stop

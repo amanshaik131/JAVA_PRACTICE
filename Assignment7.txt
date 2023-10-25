@@ -1,0 +1,15 @@
+7.  Assignment: Celsius to Fahrenheit Conversion
+take a temperature in Celsius as input and convert it to Fahrenheit. 
+Output the result.
+Algorithms
+-----------------------
+Step 1 : Start
+Step 2 : Declare a variable as n,f
+Step 3 : now convert it to farenheit by applying formula and store the result in f
+Step 4 : f=(n*9/5)+32
+Step 5 :  Print f
+Step 6 : Stop 
+
+
+
+F = (C * 9/5) + 32″

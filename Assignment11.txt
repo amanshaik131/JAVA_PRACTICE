@@ -1,0 +1,9 @@
+11.Assignment: Print Numbers 1 to 10
+to print numbers from 1 to 10 using a loop.
+
+Ans)Algorithm :Print Numbers 1 to 10
+-------------
+Step 1 : Start 
+Step 2 : initalize i from 1
+Step 3 : check i<=10 then print i  and increment i value upto 10
+Step 4 : Stop  

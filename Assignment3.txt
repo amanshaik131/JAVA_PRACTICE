@@ -1,0 +1,31 @@
+3. Find the area and peremeter of circle, rectangle and square.
+
+Ans)Algorithm for Finding  the area and peremeter of circle, rectangle and square.:
+------------------------------------------------------------------------------------------
+Step 1 :  Start
+Step 2 :  Declare the variables radius,length,breath,side,Area,Peri
+Step 3 :  Input the radius,length,breadth,side
+Step 4 : Perform Area of Circle and store it in area such as Area=3.14*radius*radius; and
+Step 5 : Perform Perimeter of Circle and store it in peri such as Peri=2*3.14*radius; and then
+Step 6:  Print Area and Peri  
+Step 7 : Perform area of Rectangle and store it in area such as Area =length*breadth;
+Step 8 : Perform perimeter of Rectangle and store it in Peri as Peri=2*(length*breadth);
+Step 9 : Print Area and Peri  
+Step10 : Perform perimeter of Square and store it in area as Area=side *side;
+Step11 : Perform perimeter of Square and store it in peri as Peri=4*side;
+Step12 : Print Area and Peri  
+Step13 : Stop
+
+ 
+
+
+
+
+area of circle   =3.14 *r*r;
+Perimeter of circle =2*3.14*r;
+
+area of rect=>l*b;
+peri=>2*(l*b);
+
+area of square =>s*s'
+perimeter of square=>4*s;
