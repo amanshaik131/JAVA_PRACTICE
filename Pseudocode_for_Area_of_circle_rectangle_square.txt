@@ -1,0 +1,22 @@
+3. Find the area and peremeter of circle, rectangle and square
+
+Pseudocode for finding Area :
+--------------------------------
+Begin
+Declare radius,length,breadth,side,area,peri;
+Display "Enter the radius of Circle ";
+input radius
+area=3.14*radius*radius;
+peri=2*3.14*radius
+output area,peri
+Display "Enter the length and breadth of Rectangle ";
+input length,breadth;
+area=length*breadth;
+peri=2*(length+breadth);
+output area,peri
+Display "Enter the side of a Square "
+input side;
+area=side*side;
+peri=4*side;
+output area,peri;
+End

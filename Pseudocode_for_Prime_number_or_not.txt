@@ -1,0 +1,23 @@
+10. Assignment: Prime Number
+take a number as input and determine if it is a prime number or not. 
+Output "Prime" or "Not Prime" accordingly. 
+
+Ans)Pseudocode for prime number :
+---------------------------------------
+
+Begin
+Declare n,i=1,count=0;
+Display "Enter n value"
+input n;
+while(i<=n) THEN 
+	if(n%i==0) THEN
+	   count++;
+   	  End if
+	i=i+1;
+if (count==2) THEN
+	output "Prime Number ";  
+else THEN 
+	output "Not Prime Number ";
+End if
+End
+ 

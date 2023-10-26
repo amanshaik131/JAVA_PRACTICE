@@ -1,0 +1,17 @@
+12. Assignment: Sum of N Natural Numbers
+take a positive integer N as input and calculate the sum of the first N natural numbers using a loop. 
+Output the result.
+
+ans) Pseudocode for Finding sum of natural numbers
+----------------------------------------------------------
+
+Begin
+Declare n,sum=0,i=1;
+Display "Enter the n value;
+input n;
+while(i<=n) THEN
+	sum=sum+i;
+	i=i+1;
+End while
+output sum;
+End

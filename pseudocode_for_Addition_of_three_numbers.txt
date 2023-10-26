@@ -1,0 +1,18 @@
+1.Assignment: Addition of three Numbers:
+take three numbers as input and compute their sum.
+Output the result.
+
+ans)Pseudocode for Addition of three Numbers:
+----------------------------------------------------
+Declaration
+Input
+process
+output
+
+Begin
+Declare a,b,c,sum;
+Display "Enter the a,b,c values ";
+input a,b,c;
+sum=a+b+c;
+output sum;
+end

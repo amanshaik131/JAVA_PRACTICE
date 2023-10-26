@@ -1,0 +1,15 @@
+2.Assignment: Average and Percentage:  
+take the marks of a student in five subjects as input and compute the average and percentage. 
+Output both the average and percentage.
+
+Pseudocode for finding Average and Percentage:
+----------------------------------------------------
+Begin
+Declare m1,m2,m3,che,phy,avg,percent;
+Display "Enter the marks of the subjects ";
+input m1,m2,m3,che,phy;
+avg=m1+m2+m3+phy+che;
+percent=avg/5*100;
+output avg,percent;
+End
+
