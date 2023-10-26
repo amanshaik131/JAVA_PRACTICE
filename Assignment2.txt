@@ -1,0 +1,16 @@
+2.Assignment: Average and Percentage:  
+take the marks of a student in five subjects as input and compute the average and percentage. 
+Output both the average and percentage.
+
+Algorithm:
+------------
+
+Step 1 : Start
+Step 2 : Declare the five variables  marks1,marks2,marks3,marks4,marks5,avg,percent
+Step 3 : Read the values of marks
+Step 4 : now calculate the avg doing of sum of marks /number of subjects such as 
+		avg=marks1+marks2+marks3+marks4+marks5/no of subjects and store the 
+		result in avg.  
+Step 5 : now perform percent=avg/100*100;
+Step 6 : print avg and percent
+Step 7 : Stop 
