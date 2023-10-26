@@ -1,0 +1,18 @@
+5. Assignment: Maximum and Minimum
+take three numbers as input and find the maximum and minimum of the three.
+Output both the maximum and minimum.
+
+Algorithms : 
+-------------
+Step 1 : Start
+Step 2 : Declare three variables a,b,c
+Step 3 : Read the values of a,b,c
+Step 4 :   First find the maximum of three values
+Step 5 : Check a >b and a>c then print a is Maximum otherwise go to Step 6
+Step 6 : Check b>a and b>c then print b  is Minimum otherwise go to Step 7
+Step 7 : print c is Maximum
+Step 8 : Now finding the Minimum of three values
+Step 9 : check a<b and a<c then print a is Minimum otherwise go to Step 10
+Step 10 :check b<a and b<c then print b is Minimum otherwise go to Step 11
+Step 11 : print c is Minimum
+Step 12 :Stop
