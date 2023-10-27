@@ -1,0 +1,34 @@
+5. Assignment: Maximum and Minimum
+take three numbers as input and find the maximum and minimum of the three. 
+Output both the maximum and minimum
+
+Ans)For Finding Maximum of three Values
+-----------------------------------------
+Begin
+Declare a,b,c;
+Display "Enter the a,b,c values ";
+input a,b,c;
+IF (a>b)&&(a>c)  THEN 
+	output a is Maximum;
+ELSE IF (b>a)&&(b>c)  THEN 
+	output b is Maximum;
+ELSE 
+	output c is Maximum;
+END IF
+End
+
+For Finding Minimum of three Values
+-----------------------------------------
+Begin
+Declare a,b,c;
+Display "Enter the a,b,c values ";
+input a,b,c;
+if(a<b)&&(a<c)  THEN 
+	output a is Minimum;
+else if (b<a)&&(b<c)  THEN 
+	output b is Minimum;
+else
+	output c is Minimum;
+End if
+End
+

@@ -1,0 +1,14 @@
+7.  Assignment: Celsius to Fahrenheit Conversion
+take a temperature in Celsius as input and convert it to Fahrenheit.
+Output the result.
+
+Ans) Pseudocode for finding  Farenheit:
+-------------------------------------------
+
+Begin
+Declare celsius,farenheit;
+Display "Enter the Celsius ";
+input celsius;
+farnheit=(celsius*9/5)+32;
+output farenheit;
+End

@@ -1,0 +1,12 @@
+11.Assignment: Print Numbers 1 to 10
+to print numbers from 1 to 10 using a loop.
+
+Ans) Pseudocode for  print numbers 1 to 10
+
+Begin
+Declare i=1;
+while (i<=10) THEN
+	output i;
+	i=i+1;
+End while
+End

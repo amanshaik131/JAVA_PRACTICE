@@ -1,0 +1,15 @@
+6.Assignment:  Even or Odd
+to take a number as input and determine if it is even or odd. 
+Output "Even" or "Odd" accordingly.
+
+Pseudocode for Even or Odd:
+--------------------------------
+Begin
+Declare n
+Display "Enter the n value "
+if (n%2==0) THEN
+	output Even
+else  THEN
+          output Odd
+End if
+End

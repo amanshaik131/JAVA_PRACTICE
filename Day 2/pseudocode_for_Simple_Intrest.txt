@@ -1,0 +1,13 @@
+4Assignment: .Simple Interest:
+take the principal amount, rate of interest, and time in years as input and compute the simple interest. 
+Output the result.
+
+Pseudocode for finding Simple Intrest:
+------------------------------------------
+Begin
+Declare p,t,r,si;
+Display "Enter the values of p,t,r";
+input p,t,r;
+si=(p*t*r)/100;
+output si;
+End
