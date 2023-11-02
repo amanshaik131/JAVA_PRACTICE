@@ -1,11 +1,3 @@
-/*34. You are tasked with developing a simple menu-driven bank transaction application.
- * The application should allow users to perform three types of transactions:
- *  deposit, withdraw, and check balance. 
- *  The user should be able to select any of these options from the menu
- *   and enter the necessary amount for the transaction.
- *    After each transaction, the user's updated balance should be displayed.
- *     The user can continue performing transactions until they manually choose to stop.
-*/
 
 
 /*34. You are tasked with developing a simple menu-driven bank transaction application.
